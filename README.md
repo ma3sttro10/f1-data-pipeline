@@ -93,6 +93,10 @@ dim_team ────┘
 - **Cache FastF1** : évite le retéléchargement des données F1
 - **XCom Airflow** : passage de contexte entre tâches (année, round GP)
 - **Vues PostgreSQL** : logique analytique centralisée, Streamlit ne fait que lire
+## Status
+🚧 Active development — core pipeline operational, 
+dashboard and orchestration in final testing
+
 
 ## Auteur
 
