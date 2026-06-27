@@ -96,4 +96,4 @@ dim_team ────┘
 
 ## Auteur
 
-Prénom Nom — [LinkedIn](https://linkedin.com) — [GitHub](https://github.com)
+BENIHYA OMAR — [LinkedIn](https://www.linkedin.com/in/omarbenihya/) — [GitHub](https://github.com/ma3sttro10)
