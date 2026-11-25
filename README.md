@@ -57,7 +57,7 @@ docker compose ps
 | Interface | URL |
 |-----------|-----|
 | Streamlit Dashboard | http://localhost:8501 |
-| Airflow UI | http://localhost:8080 (admin/admin) |
+| Airflow UI | http://localhost:8080 |
 | Spark Master UI | http://localhost:8081 |
 | Kafka | localhost:9092 |
 | PostgreSQL | localhost:5432 |
